@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Next.js Caching & Rendering Masterclass 2025 — logicBase Labs
 
-## Getting Started
+Welcome to the official source code repository for the **Next.js Caching & Rendering Masterclass 2025** on [YouTube](https://youtube.com/@logicBaseLabs). This tutorial is designed for developers who want a clear, engineering-level understanding of how Next.js optimizes performance through smart rendering strategies and layered caching.
 
-First, run the development server:
+🎬 **Watch the full tutorial:**
+👉 [Next.js Caching & Rendering Masterclass 2025](https://youtu.be/g3nj8SIO7Vs)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📚 What You’ll Learn
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This video covers:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+-   ✅ Next.js Rendering Strategies
+-   ✅ React Client & Server Components and React Server Component (RSC) payload
+-   ✅ Next.js Caching Strategies
+-   ✅ Real life examples
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧑‍💻 Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Caching Doc](https://nextjs.org/docs/app/guides/caching)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🤝 Contribution
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This repository is primarily for educational purposes based on the YouTube crash course. Feel free to fork the project, submit issues, or make improvements for your own learning!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🧠 Author
+
+**Sumit Saha** — [logicBase Labs](https://youtube.com/@logicBaseLabs)
+📧 [sumit@logicbaselabs.com](mailto:sumit@logicbaselabs.com)
+🌐 [logicbaselabs.com](https://logicbaselabs.com)
+
+---
+
+## ⭐ Show Your Support
+
+If this crash course helped you, please:
+
+-   ⭐ Star this repo
+-   🍿 Subscribe on [YouTube](https://youtube.com/@logicBaseLabs)
+-   🧑‍🏫 Share it with others!
+
+---
