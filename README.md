@@ -4,6 +4,7 @@ Welcome to the official source code repository for the **Next.js Caching & Rende
 
 🎬 **Watch the full tutorial:**
 👉 [Next.js Caching & Rendering Masterclass 2025](https://youtu.be/g3nj8SIO7Vs)
+[![Watch the video](https://img.youtube.com/vi/g3nj8SIO7Vs/maxresdefault.jpg)](https://www.youtube.com/watch?v=g3nj8SIO7Vs)
 
 ---
 
