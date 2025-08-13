@@ -34,8 +34,8 @@ This repository is primarily for educational purposes based on the YouTube crash
 ## 🧠 Author
 
 **Sumit Saha** — [logicBase Labs](https://youtube.com/@logicBaseLabs)
-📧 [sumit@logicbaselabs.com](mailto:sumit@logicbaselabs.com)
-🌐 [logicbaselabs.com](https://logicbaselabs.com)
+📧 [sayhitorainmaker@gmail.com](mailto:sayhitorainmaker@gmail.com)
+🌐 [learnwithsumit.com](https://learnwithsumit.com)
 
 ---
 
